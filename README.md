@@ -17,14 +17,14 @@ W części praktycznej należy opracować narzędzie, które na podstawie przyk�
 	> JJSchema
 
 * realistyczny harmonogram pracy wraz z listą funkcjonalności, które zostaną zaimplementowane,
-	> Research
-	> Przeglądanie dokumentacji JJSchema
+	> Research - 2 md
+	> Przeglądanie dokumentacji JJSchema - 1 md
 	
 	Funkcjonalności:
-	> Tworzenie schemy przez konsolę
-	> Generowanie schemy
-	> Generowanie pliku wynikowego JSON
-	> Walidacja pliku JSON
+	> Tworzenie schemy przez konsolę - 2 md
+	> Generowanie schemy - 2 md
+	> Generowanie pliku wynikowego JSON - 2 md
+	> Walidacja pliku JSON 2 md
 
 * podział prac w zespole,
 Damian Gaszewski 100%
