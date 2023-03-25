@@ -33,6 +33,3 @@ Damian Gaszewski 100%
 to również magisterskich studentów realizujących projekt
 	> PSR - Projekt "Gites" rozproszony system kontroli wersji
 	> Praca Inżynierska - system klasy ERP do wsparcia procesów zachodzących w fabryce
-	
-* link do repozytorium git
-https://github.com/Margon177/JSONSchemaGenerator
