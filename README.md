@@ -1,4 +1,4 @@
-# JSONSchemaGenerator
+# JSON Schema Generator
 App which is generating schema for JSON files
 
 * nazwiska, imiona, adresy mailowe oraz numery grup członków zespołu
