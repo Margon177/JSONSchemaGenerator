@@ -22,7 +22,7 @@ App which is generating schema for JSON files
 	> Przeglądanie dokumentacji JJSchema - 1 md
 	
 	Funkcjonalności:
-	> Tworzenie schemy przez konsolę - 2 md
+	> Tworzenie schemy - 2 md
 	> 
 	> Generowanie schemy - 2 md
 	> 
