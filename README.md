@@ -13,8 +13,6 @@ App which is generating schema for JSON files
 
 * Spis technologii, które będą używane (systemów, języków programowania, najważniejszych bibliotek, frameworków, itp.)
 	> Java
-	> Maven
-	> JJSchema
 
 * Realistyczny harmonogram pracy wraz z listą funkcjonalności, które zostaną zaimplementowane,
 	> Research - 2 md 
