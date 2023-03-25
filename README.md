@@ -12,7 +12,7 @@ App which is generating schema for JSON files
 * Realistyczny harmonogram pracy wraz z listą funkcjonalności, które zostaną zaimplementowane,
 	> Research - 2 md 
 	
-Funkcjonalności:
+* Funkcjonalności:
 	> Tworzenie schemy - 2 md
 	> 
 	> Generowanie schemy - 2 md
@@ -20,9 +20,6 @@ Funkcjonalności:
 	> Generowanie pliku wynikowego JSON - 2 md
 	> 
 	> Walidacja pliku JSON 2 md
-
-* Podział prac w zespole
-	>Damian Gaszewski 100%
 
 * Temat projektu z przedmiotu "Programowanie systemów rozproszonych", tematy prac inżynierskich i jeżeli są znane, 
 to również magisterskich studentów realizujących projekt
