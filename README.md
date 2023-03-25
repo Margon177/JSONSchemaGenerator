@@ -4,6 +4,7 @@ App which is generating schema for JSON files
 * nazwiska, imiona, adresy mailowe oraz numery grup członków zespołu
 
 Damian Gaszewski
+
 margondg@gmail.com
 
 
