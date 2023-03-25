@@ -1,11 +1,6 @@
 # JSON Schema Generator
 App which is generating schema for JSON files
 
-* Nazwiska, imiona, adresy mailowe oraz numery grup członków zespołu
-	>Damian Gaszewski
-	>margondg@gmail.com
-
-
 * Temat projektu
 	>30.Generacja schematu dla plików json
 	W części teoretycznej należy opisać format json oraz schemat json https://json-schema.org 
@@ -16,10 +11,8 @@ App which is generating schema for JSON files
 
 * Realistyczny harmonogram pracy wraz z listą funkcjonalności, które zostaną zaimplementowane,
 	> Research - 2 md 
-	> 
-	> Przeglądanie dokumentacji JJSchema - 1 md
 	
-	Funkcjonalności:
+Funkcjonalności:
 	> Tworzenie schemy - 2 md
 	> 
 	> Generowanie schemy - 2 md
