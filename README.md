@@ -35,3 +35,10 @@ App which is generating schema for JSON files
 to również magisterskich studentów realizujących projekt
 	> PSR - Projekt "Gites" rozproszony system kontroli wersji
 	> Praca Inżynierska - system klasy ERP do wsparcia procesów zachodzących w fabryce
+	
+* Useful links:
+	>https://json-schema.org/understanding-json-schema/reference/object.html
+	
+	>https://transform.tools/json-to-json-schema
+	
+	>https://www.w3schools.com/js/js_json_objects.asp
