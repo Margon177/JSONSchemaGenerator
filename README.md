@@ -7,8 +7,7 @@ App which is generating schema for JSON files
 
 
 * Temat projektu
-
-30.Generacja schematu dla plików json
+>30.Generacja schematu dla plików json
 W części teoretycznej należy opisać format json oraz schemat json https://json-schema.org 
 W części praktycznej należy opracować narzędzie, które na podstawie przykładowych plików json wygeneruje odpowiadający im schemat.
 
