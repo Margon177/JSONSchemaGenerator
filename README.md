@@ -13,13 +13,14 @@ App which is generating schema for JSON files
 	> Research - 2 md 
 	
 * Funkcjonalności:
-	> Tworzenie schemy - 2 md
-	> 
-	> Generowanie schemy - 2 md
-	> 
-	> Generowanie pliku wynikowego JSON - 2 md
-	> 
-	> Walidacja pliku JSON 2 md
+	> Wczytywanie pliku JSON
+	
+	> Generowanie schemy na podstawie wczytanego pliku
+	
+* Część teoretyczna TODO:
+	> Opisać format json
+	
+	> Opisać schemat json
 
 * Temat projektu z przedmiotu "Programowanie systemów rozproszonych", tematy prac inżynierskich i jeżeli są znane, 
 to również magisterskich studentów realizujących projekt
