@@ -35,3 +35,14 @@ to również magisterskich studentów realizujących projekt
 	>https://www.w3schools.com/js/js_json_objects.asp
 
 	>https://json-schema.org/learn/getting-started-step-by-step.html
+	
+* Roadmap
+	> Pobieranie pliku JSON
+	
+	> Parsowanie JSON na klasy POJO
+	
+	> Parsowanie stworzonych klas POJO na JSON Schema
+	
+	> Usunięcie stworzonych klas POJO
+	
+	> Zapis i wyświetlenie stworzonej JSON Schema
