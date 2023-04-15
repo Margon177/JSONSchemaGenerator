@@ -33,3 +33,5 @@ to również magisterskich studentów realizujących projekt
 	>https://transform.tools/json-to-json-schema
 	
 	>https://www.w3schools.com/js/js_json_objects.asp
+
+	>https://json-schema.org/learn/getting-started-step-by-step.html
