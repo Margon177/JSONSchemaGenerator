@@ -39,10 +39,10 @@ to również magisterskich studentów realizujących projekt
 * Roadmap
 	> Pobieranie pliku JSON
 	
-	> Parsowanie JSON na klasy POJO
+	> Parsowanie JSON na klasy POJO - done
 	
-	> Parsowanie stworzonych klas POJO na JSON Schema
+	> Parsowanie stworzonych klas POJO na JSON Schema - done
 	
-	> Usunięcie stworzonych klas POJO
+	> Usunięcie stworzonych klas POJO - done
 	
-	> Zapis i wyświetlenie stworzonej JSON Schema
+	> Zapis i wyświetlenie stworzonej JSON Schema - done
