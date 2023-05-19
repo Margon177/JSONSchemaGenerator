@@ -17,10 +17,10 @@ App which is generating schema for JSON files
 	
 	> Generowanie schemy na podstawie wczytanego pliku
 	
-* Część teoretyczna TODO:
-	> Opisać format json
+* Część teoretyczna:
+	> Opisać format json - done
 	
-	> Opisać schemat json
+	> Opisać schemat json - done
 
 * Temat projektu z przedmiotu "Programowanie systemów rozproszonych", tematy prac inżynierskich i jeżeli są znane, 
 to również magisterskich studentów realizujących projekt
@@ -37,7 +37,7 @@ to również magisterskich studentów realizujących projekt
 	>https://json-schema.org/learn/getting-started-step-by-step.html
 	
 * Roadmap
-	> Pobieranie pliku JSON
+	> Pobieranie pliku JSON - done
 	
 	> Parsowanie JSON na klasy POJO - done
 	
