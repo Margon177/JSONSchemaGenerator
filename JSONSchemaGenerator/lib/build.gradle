@@ -25,6 +25,10 @@ dependencies {
 
     // This dependency is used internally, and not exposed to consumers on their own compile classpath.
     implementation 'com.google.guava:guava:30.1.1-jre'
+    implementation group: 'org.jsonschema2pojo', name: 'jsonschema2pojo-gradle-plugin', version: '1.1.2'
+	implementation group: 'com.sun.codemodel', name: 'codemodel', version: '2.6'
+	implementation group: 'com.fasterxml.jackson.module', name: 'jackson-module-jsonSchema', version: '2.14.2'
+	
 }
 
 tasks.named('test') {
